@@ -1,0 +1,456 @@
+{
+    "response": {
+        "body": {
+            "totalCount": 49,
+            "items": [
+                {
+                    "dmX": "35.11497",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\ub85c\ubcc0\ub300\uae30",
+                    "year": "2022",
+                    "addr": "\uacbd\ub0a8 \ucc3d\uc6d0\uc2dc \ub9c8\uc0b0\ud569\ud3ec\uad6c \uc9c4\ub3d9\uba74 \uc0bc\uc9c4\uc758\uac70\ub300\ub85c 621 \uc9c4\ub3d9\uc2dc\uc678\ubc84\uc2a4\uc815\ub958\uc7a5 \uc55e",
+                    "stationName": "\uc0bc\uc9c4\ub85c",
+                    "dmY": "128.48581"
+                },
+                {
+                    "dmX": "35.154972",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "1994",
+                    "addr": "\uacbd\ub0a8 \ucc3d\uc6d0\uc2dc \uc9c4\ud574\uad6c \uacbd\ud654\ub85c16\ubc88\uae38 31 (\ubcd1\uc554\ub3d9\uc8fc\ubbfc\uc13c\ud130)",
+                    "stationName": "\uacbd\ud654\ub3d9",
+                    "dmY": "128.689578"
+                },
+                {
+                    "dmX": "35.183108",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "2019",
+                    "addr": "\uacbd\ub0a8 \ucc3d\uc6d0\uc2dc \ub9c8\uc0b0\ud569\ud3ec\uad6c \uc6d4\uc601\ub3d916\uae38 22 \ub9c8\uc0b0\ud569\ud3ec\uad6c\ub3c4\uc11c\uad00 \uc625\uc0c1 (\ud574\uc6b4\ub3d9)",
+                    "stationName": "\uc6d4\uc601\ub3d9",
+                    "dmY": "128.560665"
+                },
+                {
+                    "dmX": "35.066944",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "2007",
+                    "addr": "\uacbd\ub0a8 \ud558\ub3d9\uad70 \ud558\ub3d9\uc74d \uad70\uccad\ub85c 23 (\ud558\ub3d9\uad70\uccad)",
+                    "stationName": "\ud558\ub3d9\uc74d",
+                    "dmY": "127.751389"
+                },
+                {
+                    "dmX": "34.965927",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "2021",
+                    "addr": "\uacbd\ub0a8 \ud558\ub3d9\uad70 \uae08\uc131\uba74 \uae08\uc131\uc911\uc559\uae38 14 \uae08\uc131\uafc8\ub098\ubb34\uc5b4\ub9b0\uc774\uc9d1 \uc625\uc0c1",
+                    "stationName": "\uae08\uc131\uba74",
+                    "dmY": "127.794191"
+                },
+                {
+                    "dmX": "35.236667",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "1995",
+                    "addr": "\uacbd\ub0a8 \uae40\ud574\uc2dc \ud638\uacc4\ub85c 517\ubc88\uae38 8 (\ub3d9\uc0c1\ub3d9 \uc8fc\ubbfc\uc13c\ud130)",
+                    "stationName": "\ub3d9\uc0c1\ub3d9",
+                    "dmY": "128.883333"
+                },
+                {
+                    "dmX": "35.243889",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "2005",
+                    "addr": "\uacbd\ub0a8 \uae40\ud574\uc2dc \ud65c\ucc9c\ub85c 303 (\uc2e0\uc5b4\ucd08\ub4f1\ud559\uad50)",
+                    "stationName": "\uc0bc\ubc29\ub3d9",
+                    "dmY": "128.912222"
+                },
+                {
+                    "dmX": "35.202364",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "2013",
+                    "addr": "\uacbd\ub0a8 \uae40\ud574\uc2dc \uc7a5\uc720\ub3d9 \ub2a5\ub3d9\ub85c 149 (\uc7a5\uc720\uac74\uac15\uc9c0\uc6d0\uc13c\ud130)",
+                    "stationName": "\uc7a5\uc720\ub3d9",
+                    "dmY": "128.807221"
+                },
+                {
+                    "dmX": "35.3077015",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "2019",
+                    "addr": "\uacbd\ub0a8 \uae40\ud574\uc2dc \uc9c4\uc601\uc74d \uae40\ud574\ub300\ub85c365\ubc88\uae38 6-24 \uc9c4\uc601\uac74\uac15\uc99d\uc9c4\uc13c\ud130 \uc625\uc0c1",
+                    "stationName": "\uc9c4\uc601\uc74d",
+                    "dmY": "128.7311228"
+                },
+                {
+                    "dmX": "35.227745",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\ub85c\ubcc0\ub300\uae30",
+                    "year": "2021",
+                    "addr": "\uacbd\ub0a8 \uae40\ud574\uc2dc \uae40\ud574\ub300\ub85c 2515 \uc778\uc81c\ub300\uc5ed \ud658\uc2b9\uc8fc\ucc28\uc7a5 (\uc0bc\uc815\ub3d9)",
+                    "stationName": "\uae40\ud574\ub300\ub85c",
+                    "dmY": "128.901042"
+                },
+                {
+                    "dmX": "35.245937",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "2024",
+                    "addr": "\uacbd\ub0a8 \uae40\ud574\uc2dc \uc9c4\ub840\uba74 \uc9c4\ub840\ub85c 241 \uc9c4\ub808\uba74\uc0ac\ubb34\uc18c \uc625\uc0c1",
+                    "stationName": "\uc9c4\ub840\uba74",
+                    "dmY": "128.750295"
+                },
+                {
+                    "dmX": "34.71005",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\uad50\uc678\ub300\uae30",
+                    "year": "1999",
+                    "addr": "\uacbd\ub0a8 \uac70\uc81c\uc2dc \ub0a8\ubd80\uba74 \uc800\uad6c\ub9ac \uc0b0 116\ubc88\uc9c0",
+                    "stationName": "\uc800\uad6c\ub9ac",
+                    "dmY": "128.58745"
+                },
+                {
+                    "dmX": "34.863611",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "2022",
+                    "addr": "\uacbd\ub0a8 \uac70\uc81c\uc2dc \uc544\uc8fc\ub3d9 \uc0b0164-1 \uac70\uc81c\uc2dc \uc625\ud3ec \uc720\ud574\ub300\uae30\uce21\uc815\uc18c",
+                    "stationName": "\uc544\uc8fc\ub3d9",
+                    "dmY": "128.690278"
+                },
+                {
+                    "dmX": "34.88053905",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "2020",
+                    "addr": "\uacbd\ub0a8 \uac70\uc81c\uc2dc \uacc4\ub8e1\ub85c 125 \uac70\uc81c\uc2dc\uccad \uc625\uc0c1 (\uace0\ud604\ub3d9)",
+                    "stationName": "\uace0\ud604\ub3d9",
+                    "dmY": "128.62112946"
+                },
+                {
+                    "dmX": "35.082551",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "2013",
+                    "addr": "\uacbd\ub0a8 \uc0ac\ucc9c\uc2dc \uc0ac\ucc9c\uc74d \uc74d\ub0b4\ub85c 52 (\uc0ac\ucc9c\uc74d\uc0ac\ubb34\uc18c)",
+                    "stationName": "\uc0ac\ucc9c\uc74d",
+                    "dmY": "128.091236"
+                },
+                {
+                    "dmX": "34.9337038611",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "2020",
+                    "addr": "\uacbd\ub0a8 \uc0ac\ucc9c\uc2dc \ud5a5\ucd0c5\uae38 28 \ud5a5\ucd0c\ub3d9\ud589\uc815\ubcf5\uc9c0\uc13c\ud130 \uc625\uc0c1 (\ud5a5\ucd0c\ub3d9)",
+                    "stationName": "\ud5a5\ucd0c\ub3d9",
+                    "dmY": "128.09344675"
+                },
+                {
+                    "dmX": "35.371633",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\uad50\uc678\ub300\uae30",
+                    "year": "2008",
+                    "addr": "\uacbd\ub0a8 \ucc3d\uc6d0\uc2dc \uc758\ucc3d\uad6c \ub300\uc0b0\uba74 \uac08\uc804\ub85c99\ubc88\uae38 100 ",
+                    "stationName": "\ub300\uc0b0\uba74",
+                    "dmY": "128.676483"
+                },
+                {
+                    "dmX": "35.345556",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "1999",
+                    "addr": "\uacbd\ub0a8 \uc591\uc0b0\uc2dc \ubd81\uc548\ub0a85\uae38 21 \uc911\uc559\ub3d9\uc8fc\ubbfc\uc13c\ud130 (\ubd81\ubd80\ub3d9)",
+                    "stationName": "\ubd81\ubd80\ub3d9",
+                    "dmY": "129.04"
+                },
+                {
+                    "dmX": "35.414667",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "2004",
+                    "addr": "\uacbd\ub0a8 \uc591\uc0b0\uc2dc \uc0bc\ud6389\uae38 11 \uc6c5\uc0c1\ub178\uc778\ubcf5\uc9c0\ud68c\uad00 (\uc0bc\ud638\ub3d9)",
+                    "stationName": "\uc0bc\ud638\ub3d9",
+                    "dmY": "129.172083"
+                },
+                {
+                    "dmX": "35.310414",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "2020",
+                    "addr": "\uacbd\ub0a8 \uc591\uc0b0\uc2dc \ubb3c\uae08\uc74d \ud669\uc0b0\ub85c 384 \ubb3c\uae08\uc74d\ud589\uc815\ubcf5\uc9c0\uc13c\ud130 \uc625\uc0c1",
+                    "stationName": "\ubb3c\uae08\uc74d",
+                    "dmY": "128.987347"
+                },
+                {
+                    "dmX": "35.493678",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "2017",
+                    "addr": "\uacbd\ub0a8 \ubc00\uc591\uc2dc \uc911\uc559\ub85c 346 \ub0b4\uc77c\ub3d9\uc8fc\ubbfc\uc13c\ud130 (\ub0b4\uc77c\ub3d9)",
+                    "stationName": "\ub0b4\uc77c\ub3d9",
+                    "dmY": "128.754168"
+                },
+                {
+                    "dmX": "34.857173",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "2017",
+                    "addr": "\uacbd\ub0a8 \ud1b5\uc601\uc2dc \uc548\uac1c4\uae38 53 \ubb34\uc804\ub3d9\uc8fc\ubbfc\uc13c\ud130 (\ubb34\uc804\ub3d9)",
+                    "stationName": "\ubb34\uc804\ub3d9",
+                    "dmY": "128.432385"
+                },
+                {
+                    "dmX": "34.974543611",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "2018",
+                    "addr": "\uacbd\ub0a8 \uace0\uc131\uad70 \uace0\uc131\uc74d \uc911\uc559\ub85c 35 \uace0\uc131\uc74d\ubcf4\uac74\uc9c0\uc18c 2\uce35 \uc625\uc0c1",
+                    "stationName": "\uace0\uc131\uc74d",
+                    "dmY": "128.324369805"
+                },
+                {
+                    "dmX": "35.6782",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "2018",
+                    "addr": "\uacbd\ub0a8 \uac70\ucc3d\uad70 \uac70\ucc3d\uc74d \uac70\ud568\ub300\ub85c 3252 \uc790\uc804\uac70\uad50\ud1b5\uc548\uc804\uad50\uc721\uc7a5 \uc625\uc0c1",
+                    "stationName": "\uac70\ucc3d\uc74d",
+                    "dmY": "127.920092"
+                },
+                {
+                    "dmX": "35.2720132",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "2018",
+                    "addr": "\uacbd\ub0a8 \ud568\uc548\uad70 \uac00\uc57c\uc74d \ud568\uc548\ub300\ub85c 505 \uac00\uc57c\uc74d\ud589\uc815\ubcf5\uc9c0\uc13c\ud130 \uc625\uc0c1",
+                    "stationName": "\uac00\uc57c\uc74d",
+                    "dmY": "128.408105"
+                },
+                {
+                    "dmX": "35.5211721",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "2018",
+                    "addr": "\uacbd\ub0a8 \ud568\uc591\uad70 \ud568\uc591\uc74d \uace0\uc6b4\ub85c 35 \ud568\uc591\uad70\uccad \ubbfc\uc6d0\ubd09\uc0ac\uacfc \uc625\uc0c1",
+                    "stationName": "\ud568\uc591\uc74d",
+                    "dmY": "127.7244433"
+                },
+                {
+                    "dmX": "34.8318834",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "2018",
+                    "addr": "\uacbd\ub0a8 \ub0a8\ud574\uad70 \ub0a8\ud574\uc74d \ub0a8\ud574\ub300\ub85c 2745 \ub0a8\ud574\uc720\ubc30\ubb38\ud559\uad00 \uc625\uc0c1",
+                    "stationName": "\ub0a8\ud574\uc74d",
+                    "dmY": "127.899848"
+                },
+                {
+                    "dmX": "35.412344",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "2019",
+                    "addr": "\uacbd\ub0a8 \uc0b0\uccad\uad70 \uc0b0\uccad\uc74d \uc0b0\uc5d4\uccad\ub85c 1 \uc0b0\uccad\uad70\uccad \uc8fc\ucc28\uc7a5 \uc9c0\uc0c1",
+                    "stationName": "\uc0b0\uccad\uc74d",
+                    "dmY": "127.87597"
+                },
+                {
+                    "dmX": "35.643167",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\uad50\uc678\ub300\uae30",
+                    "year": "2003",
+                    "addr": "\uacbd\ub0a8 \uac70\ucc3d\uad70 \ub0a8\uc0c1\uba74 \uc778\ud3c9\uae38 36 \ub0a8\uc0c1\uba74\uc0ac\ubb34\uc18c",
+                    "stationName": "\ub0a8\uc0c1\uba74",
+                    "dmY": "127.9105"
+                },
+                {
+                    "dmX": "35.315748",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "2019",
+                    "addr": "\uacbd\ub0a8 \uc758\ub839\uad70 \uc758\ub839\uc74d \uc758\ubcd1\ub85c8\uae38 44 \uc11c\ub3d9\uc0dd\ud65c\uacf5\uc6d0 \uc9c0\uc0c1",
+                    "stationName": "\uc758\ub839\uc74d",
+                    "dmY": "128.253757"
+                },
+                {
+                    "dmX": "35.5452909",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "2019",
+                    "addr": "\uacbd\ub0a8 \ucc3d\ub155\uad70 \ucc3d\ub155\uc74d \uc6b0\ud3ec2\ub85c 1189-35 \uc815\uc2e0\uac74\uac15\ubcf5\uc9c0\uc13c\ud130 \uc625\uc0c1",
+                    "stationName": "\ucc3d\ub155\uc74d",
+                    "dmY": "128.4883674"
+                },
+                {
+                    "dmX": "35.56723",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "2019",
+                    "addr": "\uacbd\ub0a8 \ud569\ucc9c\uad70 \ud569\ucc9c\uc74d \ub300\uc57c\ub85c 888-20 \ubcf4\ud6c8\ud68c\uad00 \uc625\uc0c1",
+                    "stationName": "\ud569\ucc9c\uc74d",
+                    "dmY": "128.16517"
+                },
+                {
+                    "dmX": "35.191823",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ud56d\ub9cc",
+                    "year": "2020",
+                    "addr": "\uacbd\ub0a8 \ucc3d\uc6d0\uc2dc \uc131\uc0b0\uad6c \uc801\ud604\ub85c 424 (\uadc0\uace1\ub3d9)",
+                    "stationName": "\ub9c8\uc0b0\ud56d",
+                    "dmY": "128.591172"
+                },
+                {
+                    "dmX": "34.5643",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ud56d\ub9cc",
+                    "year": "2023",
+                    "addr": "\uacbd\ub0a8 \ud558\ub3d9\uad70 \uae08\uc131\uba74 \uacbd\uc81c\uc0b0\uc5c5\ub85c 509 \uacbd\ub0a8 \ud558\ub3d9\uad70",
+                    "stationName": "\ud558\ub3d9\ud56d",
+                    "dmY": "127.4918"
+                },
+                {
+                    "dmX": "34.91826562",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ud56d\ub9cc",
+                    "year": "2023",
+                    "addr": "\uacbd\ub0a8 \uc0ac\ucc9c\uc2dc \ud5a5\ucd0c\ub3d9 1292 \uc0bc\ucc9c\ud3ec\ud56d \ub0b4",
+                    "stationName": "\uc0bc\ucc9c\ud3ec\ud56d",
+                    "dmY": "128.08430936"
+                },
+                {
+                    "dmX": "35.077711",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ud56d\ub9cc",
+                    "year": "2020",
+                    "addr": "\ubd80\uc0b0\uad11\uc5ed\uc2dc \uac15\uc11c\uad6c \uc2e0\ud56d\ub0a8\ub85c 354 \ubd80\uc0b0\uc2e0\ud56d\ub9cc \ub0b4 (\uc131\ubd81\ub3d9) (\uc2e4\uc8fc\uc18c : \uacbd\ub0a8 \ucc3d\uc6d0\uc2dc \uc9c4\ud574\uad6c \uc2e0\ud56d\ub85c 434(\uc548\uace8\ub3d9))",
+                    "stationName": "\ubd80\uc0b0\ud56d",
+                    "dmY": "128.784773"
+                },
+                {
+                    "dmX": "35.21815",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "1993",
+                    "addr": "\uacbd\ub0a8 \ucc3d\uc6d0\uc2dc \ub9c8\uc0b0\ud68c\uc6d0\uad6c \ud68c\uc6d0\ub3d9 11\ubc88\uae38 7 (\ud68c\uc6d01\ub3d9 \uc8fc\ubbfc\uc13c\ud130)",
+                    "stationName": "\ud68c\uc6d0\ub3d9",
+                    "dmY": "128.57425"
+                },
+                {
+                    "dmX": "35.2178",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "1995",
+                    "addr": "\uacbd\ub0a8 \ucc3d\uc6d0\uc2dc \ub9c8\uc0b0\ud68c\uc6d0\uad6c \ubd09\uc591\ub85c 148 \ubd09\uc554\ub3d9 \uc8fc\ubbfc\uc13c\ud130 (\ubd09\uc554\ub3d9)",
+                    "stationName": "\ubd09\uc554\ub3d9",
+                    "dmY": "128.6023"
+                },
+                {
+                    "dmX": "35.2258303611",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "2020",
+                    "addr": "\uacbd\ub0a8 \ucc3d\uc6d0\uc2dc \ub9c8\uc0b0\ud68c\uc6d0\uad6c \ub0b4\uc11c\uc74d \uad11\ub824\ub85c 8 \uc0bc\uacc4\uadfc\ub9b0\uacf5\uc6d0 \uc9c0\uc0c1",
+                    "stationName": "\ub0b4\uc11c\uc74d",
+                    "dmY": "128.50325827"
+                },
+                {
+                    "dmX": "35.195891",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "2022",
+                    "addr": "\uacbd\ub0a8 \uc9c4\uc8fc\uc2dc \ubd81\uc7a5\ub300\ub85c64\ubc88\uae38 14 \uc911\uc559119\uc548\uc804\uc13c\ud130 \uc625\uc0c1 (\ubd09\uace1\ub3d9)",
+                    "stationName": "\uc0c1\ubd09\ub3d9",
+                    "dmY": "128.074596"
+                },
+                {
+                    "dmX": "35.193333",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "1997",
+                    "addr": "\uacbd\ub0a8 \uc9c4\uc8fc\uc2dc \uc9c4\uc8fc\ub300\ub85c 1052 (\uc911\uc18c\uae30\uc5c5\uc740\ud589)",
+                    "stationName": "\ub300\uc548\ub3d9",
+                    "dmY": "128.084167"
+                },
+                {
+                    "dmX": "35.180609",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "2005",
+                    "addr": "\uacbd\ub0a8 \uc9c4\uc8fc\uc2dc \ub3d9\uc9c4\ub85c 279 (\ud55c\uad6d\uc804\ub825\uacf5\uc0ac \uc9c4\uc8fc\uc9c0\uc810)",
+                    "stationName": "\uc0c1\ub300\ub3d9(\uc9c4\uc8fc)",
+                    "dmY": "128.121781"
+                },
+                {
+                    "dmX": "35.1246016667",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "2020",
+                    "addr": "\uacbd\ub0a8 \uc9c4\uc8fc\uc2dc \uc815\ucd0c\uba74 \uc608\ud558\ub9ac 1340 \uc608\ud558\ucd08\ub4f1\ud559\uad50 \uc55e \uacf5\uc6d0 \uc9c0\uc0c1",
+                    "stationName": "\uc815\ucd0c\uba74",
+                    "dmY": "128.09992247"
+                },
+                {
+                    "dmX": "35.243402",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "1993",
+                    "addr": "\uacbd\ub0a8 \ucc3d\uc6d0\uc2dc \uc758\ucc3d\uad6c \uc6b0\uace1\ub85c101\ubc88\uae38 28 \uba85\uc11c2\ub3d9 \ubbfc\uc6d0\uc13c\ud130 (\uba85\uc11c\ub3d9)",
+                    "stationName": "\uba85\uc11c\ub3d9",
+                    "dmY": "128.641756"
+                },
+                {
+                    "dmX": "35.217333",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "1999",
+                    "addr": "\uacbd\ub0a8 \ucc3d\uc6d0\uc2dc \uc131\uc0b0\uad6c \uacf5\ub2e8\ub85c 303 (\ud6a8\uc131\uad7f\uc2a4\ud504\ub9c1\uc2a4)",
+                    "stationName": "\uc6c5\ub0a8\ub3d9",
+                    "dmY": "128.656617"
+                },
+                {
+                    "dmX": "35.1993934",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "1997",
+                    "addr": "\uacbd\ub0a8 \ucc3d\uc6d0\uc2dc \uc131\uc0b0\uad6c \uc678\ub9ac\ub85c14\ubc88\uae38 18 \uc131\uc8fc\ubbfc\uc6d0\uc13c\ud130",
+                    "stationName": "\uc131\uc8fc\ub3d9",
+                    "dmY": "128.7108707"
+                },
+                {
+                    "dmX": "35.236111",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "2007",
+                    "addr": "\uacbd\ub0a8 \ucc3d\uc6d0\uc2dc \uc758\ucc3d\uad6c \uc6a9\uc9c0\ub85c 239\ubc88\uae38 19-4 (\uc6a9\uc9c0\ub3d9 \uc8fc\ubbfc\uc13c\ud130)",
+                    "stationName": "\uc6a9\uc9c0\ub3d9",
+                    "dmY": "128.683889"
+                },
+                {
+                    "dmX": "35.2341412",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\ub85c\ubcc0\ub300\uae30",
+                    "year": "2008",
+                    "addr": "\uacbd\ub0a8 \ucc3d\uc6d0\uc2dc \uc758\ucc3d\uad6c \uc6d0\uc774\ub300\ub85c 450 (\uc2dc\uc124\uad00\ub9ac\uacf5\ub2e8 \uc2e4\ub0b4\uc218\uc601\uc7a5 \uc55e)",
+                    "stationName": "\ubc18\uc1a1\ub85c",
+                    "dmY": "128.6646236"
+                },
+                {
+                    "dmX": "35.221729",
+                    "item": "SO2, CO, O3, NO2, PM10, PM2.5",
+                    "mangName": "\ub3c4\uc2dc\ub300\uae30",
+                    "year": "2009",
+                    "addr": "\uacbd\ub0a8 \ucc3d\uc6d0\uc2dc \uc131\uc0b0\uad6c \ucc3d\uc774\ub300\ub85c 706\ubc88\uae38 16-23 (\uc0ac\ud30c\ubbfc\uc6d0\uc13c\ud130)",
+                    "stationName": "\uc0ac\ud30c\ub3d9",
+                    "dmY": "128.69825"
+                }
+            ],
+            "pageNo": 1,
+            "numOfRows": 200
+        },
+        "header": {
+            "resultMsg": "NORMAL_CODE",
+            "resultCode": "00"
+        }
+    }
+}
